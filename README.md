@@ -1,6 +1,7 @@
 ![npm](https://img.shields.io/npm/v/vue-directive-outside-click.svg)
-![npm bundle size](https://img.shields.io/bundlephobia/min/vue-directive-outside-click.svg)
 ![NPM](https://img.shields.io/npm/l/vue-directive-outside-click.svg)
+![npm bundle size](https://img.shields.io/bundlephobia/min/vue-directive-outside-click.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/afflexux/hygen-bweble.svg)
 ## vue-directive-outside-click
 A Vue custom directive to close elements when clicking outside of the element.
 
