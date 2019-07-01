@@ -1,0 +1,21 @@
+{
+  "name": "vue-directive-outside-click",
+  "version": "0.1.0",
+  "description": "A Vue custom directive to close elements when clicking outside the element.",
+  "main": "index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/afflexux/vue-directive-outside-click.git"
+  },
+  "keywords": [
+    "vue",
+    "directive",
+    "click",
+    "outside"
+  ],
+  "author": "afflex",
+  "license": "MIT"
+}
